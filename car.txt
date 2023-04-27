@@ -1,1 +1,2 @@
 bazı degisiklikler yaptım.
+remoteda kodlar ekledim.
